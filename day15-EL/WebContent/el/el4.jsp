@@ -59,7 +59,6 @@ JSP 내장객체 : request | EL 내장객체 : requestScope
 	
 </pre>
 
-
 <hr>
 <h3>scriptlet, expression Tag 로 목록 추출시</h3>
 <%
